@@ -1,0 +1,6 @@
+framework module Pods_wbgamesdk_Tests {
+  umbrella header "Pods-wbgamesdk_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

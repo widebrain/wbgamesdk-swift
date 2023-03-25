@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'wbgamesdk'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of wbgamesdk.'
+  s.summary          = 'widebrain game sdk.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/hyunsu/wbgamesdk'
+  s.homepage         = 'https://widebrain-metaful.notion.site/SDK-13c8b6a47966409fb9a7e2347e94af4a'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'hyunsu' => 'hyusu@widebrain.kr' }
-  s.source           = { :git => 'https://github.com/hyunsu/wbgamesdk.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/widebrain/wbgamesdk-swift.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'

@@ -1,0 +1,16 @@
+PODS:
+  - wbgamesdk (0.1.0)
+
+DEPENDENCIES:
+  - wbgamesdk (from `../`)
+
+EXTERNAL SOURCES:
+  wbgamesdk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  wbgamesdk: 958e0f0e859c52d2c1299e2ae34edfa6549a382c
+
+PODFILE CHECKSUM: 75c9ab5f06b12901be91897f626d6bf7793de09a
+
+COCOAPODS: 1.11.3

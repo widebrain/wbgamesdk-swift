@@ -7,11 +7,14 @@
 //
 
 import UIKit
+import wbgamesdk
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        GameSDK.sayHello(with: "asdasdasd")
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
