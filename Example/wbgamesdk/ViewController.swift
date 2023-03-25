@@ -13,7 +13,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        GameSDK.sayHello(with: "asdasdasd")
+        GameSDK.sayHello(with: "11ss")
         
         // Do any additional setup after loading the view, typically from a nib.
     }
