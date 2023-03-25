@@ -32,6 +32,7 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'wbgamesdk/Classes/**/*'
   
+  s.swift_versions = '5.0'
   # s.resource_bundles = {
   #   'wbgamesdk' => ['wbgamesdk/Assets/*.png']
   # }
