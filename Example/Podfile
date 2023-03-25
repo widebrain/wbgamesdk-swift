@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'wbgamesdk_Example' do
+  pod 'wbgamesdk', :path => '../'
+
+  target 'wbgamesdk_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
